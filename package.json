@@ -1,0 +1,12 @@
+{
+  "name": "game",
+  "version": "4.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PickleNik",
+  "license": "AGPL-3.0"
+}
